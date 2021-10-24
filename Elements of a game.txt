@@ -1,0 +1,10 @@
+Elements of a game design:
+1. Player
+2. Obstacles
+3. Scores
+4. Sound effects
+5. Rules
+6. Goal 
+7. Balance
+8. Story
+9. Adaptivity
